@@ -1,25 +1,17 @@
-# Code Compilation for Genomics and Bioinformatics Projects
+# Code Compilation for IHA Bioinformatics Projects
 
-Welcome to my repository! This collection showcases the codes and scripts I have used and am currently using for my genomics and bioinformatics projects during my Ph.D. and postdoctoral research. The repository is organized into three main sections:
+Welcome to this repository! This collection showcases the codes and scripts I have used the bioinformatics projects for IHA research. The repository consists of:
 
-1. **Genomics**
-2. **Bioinformatics**
-3. **Data Processing**
-
-Each section contains sub-sections based on specific projects and tasks.
+1. **README.md file for description**
+2. **scripts**
 
 ## Languages Used
 - **Bash**
 - **R**
-## Genomics
-Genomics analysis cover the following topics:
-- **Genome-wide Association study (GWAS)**
-- **Population structure analysis using STRUCTURE v2.3.4 command line version**
-- **VCF files**
 
 ## Bioinformatics Pipelines
 
-These bioinformatics analysis pipelines were developed during my postdoctoral research at the Institute for Advancing Health Through Agriculture (IHA), Texas A&M AgriLife Research, College Station, TX. The pipelines cover the following tasks:
+These bioinformatics analysis pipelines were developed for Institute for Advancing Health Through Agriculture (IHA), Texas A&M AgriLife Research, College Station, TX. The pipelines cover the following tasks:
 
 ### RNA and DNA Sequencing Analysis
 - **Mapping reads**
