@@ -1,7 +1,7 @@
 
 # Code Compilation for Bioinformatics Projects at IHA
 
-Welcome to this repository! This collection showcases the codes and scripts used for various bioinformatics projects at the Institute for Advancing Health Through Agriculture (IHA), Texas A&M AgriLife Research, College Station, TX. The repository includes scripts for both RNA-Seq and DNA-Seq data analysis.
+Welcome to this repository! This collection showcases the codes and scripts used for various bioinformatics projects at the Institute for Advancing Health Through Agriculture (IHA), Texas A&M AgriLife Research, College Station, TX. The repository includes scripts for both RNA-Seq and DNA mapping analysis.
 
 Here's what you'll find:
 - **README file**
